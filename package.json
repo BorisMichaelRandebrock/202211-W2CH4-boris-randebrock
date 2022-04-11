@@ -1,0 +1,25 @@
+{
+  "name": "semana-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass styles/scss/styles.scss styles/css/styles.css -w",
+    "build-styles": "sass styles/scss/styles.scss styles/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisMichaelRandebrock/202211-W2CH4-boris-randebrock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorisMichaelRandebrock/202211-W2CH4-boris-randebrock/issues"
+  },
+  "homepage": "https://github.com/BorisMichaelRandebrock/202211-W2CH4-boris-randebrock#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.50.0"
+  }
+}
