@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "sass styles/scss/styles.scss styles/css/styles.css -w",
-    "build-styles": "sass styles/scss/styles.scss styles/css/styles.css"
+    "sass": "sass sass/style.scss css/style.css -w",
+    "build-styles": "sass sass/style.scss css/style.css"
   },
   "repository": {
     "type": "git",
